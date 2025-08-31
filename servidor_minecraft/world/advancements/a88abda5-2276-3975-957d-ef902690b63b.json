@@ -646,6 +646,7 @@
     "criteria": {
       "cooked_mutton": "2025-08-31 20:51:09 +0000",
       "cooked_beef": "2025-08-31 21:12:39 +0000",
+      "bread": "2025-08-31 22:44:19 +0000",
       "cooked_chicken": "2025-08-31 21:55:08 +0000"
     },
     "done": false
@@ -1385,6 +1386,30 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-08-31 22:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-31 22:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-31 22:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-31 22:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-31 22:47:46 +0000"
     },
     "done": true
   },

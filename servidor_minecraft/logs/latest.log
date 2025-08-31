@@ -75,3 +75,5 @@
 [22:40:14] [Server thread/INFO]: [Not Secure] <matisus_2> voy a buscar otrav
 [22:40:28] [Server thread/INFO]: [Not Secure] [Server] laskdjflkasdj
 [22:44:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=255, y=69, z=-912} class_2338{x=257, y=69, z=-912}
+[22:45:19] [Server thread/INFO]: Villager class_1646['Nitwit'/4075, l='ServerLevel[world]', x=267.57, y=76.94, z=-896.40] died, message: 'Nitwit was slain by matisus_2'
+[22:48:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=240, y=68, z=-904} class_2338{x=240, y=66, z=-905}

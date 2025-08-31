@@ -1,434 +1,66 @@
-[20:14:32] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[20:14:32] [main/INFO]: Loading 4 mods:
+[22:25:00] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[22:25:00] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 17
 	- minecraft 1.20.1
-[20:14:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/own-server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:14:41] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:14:43] [main/INFO]: Loaded 7 recipes
-[20:14:44] [main/INFO]: Loaded 1271 advancements
-[20:14:45] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[20:14:45] [Server thread/INFO]: Loading properties
-[20:14:45] [Server thread/INFO]: Default game type: SURVIVAL
-[20:14:45] [Server thread/INFO]: Generating keypair
-[20:14:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:14:45] [Server thread/INFO]: Using epoll channel type
-[20:14:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:14:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:14:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:14:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:14:45] [Server thread/INFO]: Preparing level "world"
-[20:14:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:14:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:14:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:14:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:14:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:14:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:14:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:14:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:14:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:14:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:14:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:14:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:14:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:14:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:14:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:14:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:14:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:15:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:15:00] [Server thread/INFO]: Time elapsed: 9351 ms
-[20:15:00] [Server thread/INFO]: Done (15.386s)! For help, type "help"
-[20:15:14] [Server thread/INFO]: Mr_NJHS[/127.89.14.218:40941] logged in with entity id 203 at (72.5, 118.0, -61.5)
-[20:15:14] [Server thread/INFO]: Mr_NJHS joined the game
-[20:15:15] [Server thread/INFO]: Mr_NJHS lost connection: Disconnected
-[20:15:15] [Server thread/INFO]: Mr_NJHS left the game
-[20:16:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@6e8827a[id=<null>,name=_Ry0s_,properties={},legacy=false] (/127.82.245.13:57231) lost connection: Disconnected
-[20:16:49] [Server thread/INFO]: _Ry0s_[/127.82.245.13:48233] logged in with entity id 213 at (59.98866332759638, 130.0, -71.02189281754202)
-[20:16:49] [Server thread/INFO]: _Ry0s_ joined the game
-[20:17:10] [Server thread/INFO]: matisus_2[/127.12.203.92:54477] logged in with entity id 296 at (60.30000001192093, 127.0, -71.49827605168367)
-[20:17:10] [Server thread/INFO]: matisus_2 joined the game
-[20:17:26] [Server thread/INFO]: [Not Secure] <_Ry0s_> seeeeeeeeeeeee
-[20:17:45] [Server thread/INFO]: [Not Secure] <_Ry0s_> deberias poder ver el mapa
-[20:17:47] [Server thread/INFO]: [Not Secure] <_Ry0s_> apreta j
-[20:18:04] [Server thread/INFO]: [Not Secure] <_Ry0s_> esa skin
-[20:18:49] [Server thread/INFO]: [_Ry0s_: Set own game mode to Creative Mode]
-[20:18:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=58, y=122, z=-74}
-[20:19:07] [Server thread/INFO]: _Ry0s_ has made the advancement [Ice Bucket Challenge]
-[20:19:11] [Server thread/INFO]: matisus_2 has made the advancement [Stone Age]
-[20:19:17] [Server thread/INFO]: [Not Secure] <matisus_2> no puedp romer bloques basura
-[20:19:17] [Server thread/INFO]: [Not Secure] <_Ry0s_> asdfhaskjdf
-[20:19:23] [Server thread/INFO]: [_Ry0s_: Set own game mode to Survival Mode]
-[20:19:27] [Server thread/INFO]: [Not Secure] <_Ry0s_> q
-[20:19:30] [Server thread/INFO]: [Not Secure] <_Ry0s_> que no podes?
-[20:19:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=76, y=113, z=-69}
-[20:19:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=76, y=113, z=-69}
-[20:19:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=76, y=114, z=-69}
-[20:19:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=76, y=114, z=-69}
-[20:19:46] [Server thread/INFO]: _Ry0s_ has made the advancement [Monster Hunter]
-[20:19:50] [Server thread/INFO]: [Not Secure] <matisus_2> romper bloques
-[20:19:54] [Server thread/INFO]: [Not Secure] <_Ry0s_> intenta romper
-[20:20:00] [Server thread/INFO]: [Not Secure] <_Ry0s_> ok ahi veo tus privilegios
-[20:20:14] [Server thread/INFO]: /advancement (grant|revoke)
-[20:20:14] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[20:20:14] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[20:20:14] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[20:20:14] [Server thread/INFO]: /clear [<targets>]
-[20:20:14] [Server thread/INFO]: /clone (<begin>|from)
-[20:20:14] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
-[20:20:14] [Server thread/INFO]: /data (merge|get|remove|modify)
-[20:20:14] [Server thread/INFO]: /datapack (enable|disable|list)
-[20:20:14] [Server thread/INFO]: /debug (start|stop|function)
-[20:20:14] [Server thread/INFO]: /defaultgamemode <gamemode>
-[20:20:14] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[20:20:14] [Server thread/INFO]: /effect (clear|give)
-[20:20:14] [Server thread/INFO]: /me <action>
-[20:20:14] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[20:20:14] [Server thread/INFO]: /experience (add|set|query)
-[20:20:14] [Server thread/INFO]: /xp -> experience
-[20:20:14] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[20:20:14] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[20:20:14] [Server thread/INFO]: /forceload (add|remove|query)
-[20:20:14] [Server thread/INFO]: /function <name>
-[20:20:14] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[20:20:14] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[20:20:14] [Server thread/INFO]: /give <targets> <item> [<count>]
-[20:20:14] [Server thread/INFO]: /help [<command>]
-[20:20:14] [Server thread/INFO]: /item (replace|modify)
-[20:20:14] [Server thread/INFO]: /kick <targets> [<reason>]
-[20:20:14] [Server thread/INFO]: /kill [<targets>]
-[20:20:14] [Server thread/INFO]: /list [uuids]
-[20:20:14] [Server thread/INFO]: /locate (structure|biome|poi)
-[20:20:14] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[20:20:14] [Server thread/INFO]: /msg <targets> <message>
-[20:20:14] [Server thread/INFO]: /tell -> msg
-[20:20:14] [Server thread/INFO]: /w -> msg
-[20:20:14] [Server thread/INFO]: /particle <name> [<pos>]
-[20:20:14] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[20:20:14] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[20:20:14] [Server thread/INFO]: /reload
-[20:20:14] [Server thread/INFO]: /recipe (give|take)
-[20:20:14] [Server thread/INFO]: /return <value>
-[20:20:14] [Server thread/INFO]: /ride <target> (mount|dismount)
-[20:20:14] [Server thread/INFO]: /say <message>
-[20:20:14] [Server thread/INFO]: /schedule (function|clear)
-[20:20:14] [Server thread/INFO]: /scoreboard (objectives|players)
-[20:20:14] [Server thread/INFO]: /seed
-[20:20:14] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[20:20:14] [Server thread/INFO]: /spawnpoint [<targets>]
-[20:20:14] [Server thread/INFO]: /setworldspawn [<pos>]
-[20:20:14] [Server thread/INFO]: /spectate [<target>]
-[20:20:14] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[20:20:14] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[20:20:14] [Server thread/INFO]: /summon <entity> [<pos>]
-[20:20:14] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[20:20:14] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[20:20:14] [Server thread/INFO]: /teammsg <message>
-[20:20:14] [Server thread/INFO]: /tm -> teammsg
-[20:20:14] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[20:20:14] [Server thread/INFO]: /tp -> teleport
-[20:20:14] [Server thread/INFO]: /tellraw <targets> <message>
-[20:20:14] [Server thread/INFO]: /time (set|add|query)
-[20:20:14] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[20:20:14] [Server thread/INFO]: /trigger <objective> [add|set]
-[20:20:14] [Server thread/INFO]: /weather (clear|rain|thunder)
-[20:20:14] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[20:20:14] [Server thread/INFO]: /jfr (start|stop)
-[20:20:14] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[20:20:14] [Server thread/INFO]: /banlist [ips|players]
-[20:20:14] [Server thread/INFO]: /ban <targets> [<reason>]
-[20:20:14] [Server thread/INFO]: /deop <targets>
-[20:20:14] [Server thread/INFO]: /op <targets>
-[20:20:14] [Server thread/INFO]: /pardon <targets>
-[20:20:14] [Server thread/INFO]: /pardon-ip <target>
-[20:20:14] [Server thread/INFO]: /perf (start|stop)
-[20:20:14] [Server thread/INFO]: /save-all [flush]
-[20:20:14] [Server thread/INFO]: /save-off
-[20:20:14] [Server thread/INFO]: /save-on
-[20:20:14] [Server thread/INFO]: /setidletimeout <minutes>
-[20:20:14] [Server thread/INFO]: /stop
-[20:20:14] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[20:21:03] [Server thread/INFO]: matisus_2 was killed
-[20:21:03] [Server thread/INFO]: [_Ry0s_: Killed matisus_2]
-[20:21:08] [Server thread/INFO]: [Not Secure] <_Ry0s_> proba ahora
-[20:21:11] [Server thread/INFO]: [Not Secure] <matisus_2> PERO
-[20:21:17] [Server thread/INFO]: [Not Secure] <_Ry0s_> proba
-[20:21:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=54, y=138, z=-66}
-[20:21:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=54, y=138, z=-66}
-[20:21:24] [Server thread/INFO]: [_Ry0s_: Teleported matisus_2 to _Ry0s_]
-[20:21:34] [Server thread/INFO]: [Not Secure] <_Ry0s_> no te deja?
-[20:21:35] [Server thread/INFO]: [Not Secure] <_Ry0s_> mmm
-[20:21:37] [Server thread/INFO]: [Not Secure] <_Ry0s_> a ver esto
-[20:21:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=65, y=116, z=-69}
-[20:21:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=65, y=116, z=-69}
-[20:21:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=65, y=116, z=-69}
-[20:21:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=65, y=116, z=-69}
-[20:21:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=65, y=116, z=-69}
-[20:21:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=65, y=116, z=-69}
-[20:21:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=65, y=116, z=-69}
-[20:21:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=65, y=116, z=-69}
-[20:21:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=65, y=116, z=-69}
-[20:21:41] [Server thread/INFO]: [_Ry0s_: Made matisus_2 a server operator]
-[20:21:50] [Server thread/INFO]: [Not Secure] <matisus_2> seeeee
-[20:21:54] [Server thread/INFO]: [Not Secure] <_Ry0s_> okok
-[20:21:54] [Server thread/INFO]: [Not Secure] <_Ry0s_> a ver ahora
-[20:21:55] [Server thread/INFO]: [Not Secure] <_Ry0s_> banca
-[20:22:07] [Server thread/INFO]: [_Ry0s_: Made matisus_2 no longer a server operator]
-[20:22:10] [Server thread/INFO]: [Not Secure] <_Ry0s_> intenta ahora
-[20:22:21] [Server thread/INFO]: [Not Secure] <_Ry0s_> no te deja pero la con
-[20:22:22] [Server thread/INFO]: [Not Secure] <_Ry0s_> mmm
-[20:22:28] [Server thread/INFO]: [Not Secure] <_Ry0s_> es un tema de privilegios del sistema
-[20:22:32] [Server thread/INFO]: [Not Secure] <_Ry0s_> porque te pongo op
-[20:22:34] [Server thread/INFO]: [Not Secure] <_Ry0s_> bancame
-[20:23:20] [Server thread/INFO]: [Not Secure] <_Ry0s_> cla
-[20:23:24] [Server thread/INFO]: [Not Secure] <_Ry0s_> estas en espectador
-[20:23:35] [Server thread/INFO]: [Not Secure] <_Ry0s_> proba ahora
-[20:23:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=65, y=113, z=-70}
-[20:23:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=65, y=114, z=-69}
-[20:23:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=65, y=113, z=-70}
-[20:23:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=65, y=114, z=-69}
-[20:23:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=64, y=113, z=-69}
-[20:23:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=63, y=114, z=-69}
-[20:24:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=66, y=113, z=-68}
-[20:24:16] [Server thread/INFO]: [Not Secure] <_Ry0s_> podes?
-[20:24:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=65, y=114, z=-69}
-[20:24:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=65, y=114, z=-67}
-[20:24:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=63, y=114, z=-67}
-[20:24:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=63, y=115, z=-66}
-[20:24:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=64, y=115, z=-66}
-[20:24:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=63, y=115, z=-66}
-[20:24:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=64, y=115, z=-66}
-[20:24:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=63, y=115, z=-66}
-[20:24:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=64, y=115, z=-66}
-[20:24:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=66, y=113, z=-69}
-[20:24:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=65, y=114, z=-69}
-[20:24:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=64, y=114, z=-71}
-[20:24:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=63, y=115, z=-71}
-[20:24:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=60, y=116, z=-68}
-[20:24:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=62, y=117, z=-66}
-[20:24:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[20:24:55] [Server thread/INFO]: c/gamemode matisus_2<--[HERE]
-[20:25:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[20:25:12] [Server thread/INFO]: c/gamemode matisus_2<--[HERE]
-[20:25:40] [Server thread/INFO]: [_Ry0s_: Set own game mode to Adventure Mode]
-[20:25:40] [Server thread/INFO]: [_Ry0s_: Set matisus_2's game mode to Adventure Mode]
-[20:25:44] [Server thread/INFO]: [Not Secure] <_Ry0s_> proba
-[20:25:52] [Server thread/INFO]: [_Ry0s_: Set own game mode to Survival Mode]
-[20:25:52] [Server thread/INFO]: [_Ry0s_: Set matisus_2's game mode to Survival Mode]
-[20:25:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=115, z=-69} class_2338{x=65, y=114, z=-69}
-[20:25:55] [Server thread/INFO]: [Not Secure] <_Ry0s_> proba
-[20:25:59] [Server thread/INFO]: [_Ry0s_: Made Mat a server operator]
-[20:26:02] [Server thread/INFO]: [Not Secure] <_Ry0s_> proba
-[20:26:07] [Server thread/INFO]: [_Ry0s_: Made matisus_2 a server operator]
-[20:26:12] [Server thread/INFO]: matisus_2 was killed
-[20:26:12] [Server thread/INFO]: [_Ry0s_: Killed matisus_2]
-[20:26:24] [Server thread/INFO]: [Not Secure] <_Ry0s_> O
-[20:26:25] [Server thread/INFO]: [Not Secure] <_Ry0s_> OK
-[20:26:25] [Server thread/INFO]: [Not Secure] <_Ry0s_> OK
-[20:26:27] [Server thread/INFO]: [Not Secure] <_Ry0s_> BANCA
-[20:26:31] [Server thread/INFO]: [_Ry0s_: Made matisus_2 no longer a server operator]
-[20:26:38] [Server thread/INFO]: [Not Secure] <_Ry0s_> podes seguir rompiendo?
-[20:26:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=117, z=-69} class_2338{x=62, y=115, z=-67}
-[20:26:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=117, z=-69} class_2338{x=64, y=119, z=-67}
-[20:26:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=117, z=-69} class_2338{x=62, y=115, z=-69}
-[20:26:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=65, y=117, z=-69} class_2338{x=64, y=114, z=-71}
-[20:26:52] [Server thread/INFO]: matisus_2 was killed
-[20:26:52] [Server thread/INFO]: [_Ry0s_: Killed matisus_2]
-[20:26:58] [Server thread/INFO]: [_Ry0s_: Teleported matisus_2 to _Ry0s_]
-[20:27:01] [Server thread/INFO]: [Not Secure] <_Ry0s_> proba ahora
-[20:27:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=64, y=116, z=-65}
-[20:27:05] [Server thread/INFO]: [Not Secure] <_Ry0s_> podes romper?
-[20:27:16] [Server thread/INFO]: [Not Secure] <matisus_2> nao
-[20:27:16] [Server thread/INFO]: [_Ry0s_: Made matisus_2 a server operator]
-[20:28:44] [Server thread/INFO]: [Not Secure] <_Ry0s_> mmmm
-[20:28:49] [Server thread/INFO]: [Not Secure] <_Ry0s_> solo podes si tenes op
-[20:28:50] [Server thread/INFO]: [Not Secure] <_Ry0s_> es raro
-[20:29:00] [Server thread/INFO]: [Not Secure] <_Ry0s_> tengo que ver los privilegios del server
-[20:29:01] [Server thread/INFO]: [Not Secure] <_Ry0s_> mientras
-[20:29:07] [Server thread/INFO]: [Not Secure] <_Ry0s_> podes seguir jugando normalmente
-[20:29:22] [Server thread/INFO]: [Not Secure] <matisus_2> listoooooo
-[20:29:23] [Server thread/INFO]: [Not Secure] <_Ry0s_> el tema que tengo que ver los privilegios
-[20:29:26] [Server thread/INFO]: [Not Secure] <matisus_2> anachi
-[20:29:31] [Server thread/INFO]: [Not Secure] <_Ry0s_> porque
-[20:29:36] [Server thread/INFO]: [Not Secure] <_Ry0s_> ahora mismo podes ponerte creativo
-[20:29:39] [Server thread/INFO]: [Not Secure] <_Ry0s_> podes hacer
-[20:29:42] [Server thread/INFO]: [_Ry0s_: Set the time to 1000]
-[20:29:44] [Server thread/INFO]: [Not Secure] <_Ry0s_> o
-[20:30:33] [Server thread/INFO]: matisus_2 has made the advancement [Getting an Upgrade]
-[20:31:00] [Server thread/INFO]: [_Ry0s_: Gave 1 [Acacia Door] to matisus_2]
-[20:31:03] [Server thread/INFO]: [Not Secure] <_Ry0s_> ajsklfdjasñdfkjalsdfjls
-[20:31:05] [Server thread/INFO]: [Not Secure] <_Ry0s_> podes hacer esto
-[20:31:09] [Server thread/INFO]: [Not Secure] <_Ry0s_> no lo puedo creer
-[20:31:22] [Server thread/INFO]: [Not Secure] <matisus_2> porque me daba una puerta JAJJAJAJAS
-[20:31:26] [Server thread/INFO]: [_Ry0s_: Gave 200 [Angler Pottery Sherd] to matisus_2]
-[20:31:28] [Server thread/INFO]: [Not Secure] <_Ry0s_> KJASDLÑFKJLASFDJLAKDJFLAS
-[20:31:32] [Server thread/INFO]: [Not Secure] <_Ry0s_> que te di?
-[20:31:40] [Server thread/INFO]: [_Ry0s_: Gave 200 [Angler Pottery Sherd] to _Ry0s_]
-[20:31:45] [Server thread/INFO]: [Not Secure] <_Ry0s_> KLAJLFKJSADÑK
-[20:31:46] [Server thread/INFO]: [Not Secure] <_Ry0s_> dios
-[20:31:48] [Server thread/INFO]: [Not Secure] <_Ry0s_> a ver esto
-[20:31:52] [Server thread/INFO]: [Not Secure] <_Ry0s_> va a ser epico
-[20:32:03] [Server thread/INFO]: [matisus_2: Gave 1 [Acacia Button] to _Ry0s_]
-[20:32:19] [Server thread/INFO]: [_Ry0s_: Gave 2000 [Bedrock] to matisus_2]
-[20:32:23] [Server thread/INFO]: [_Ry0s_: Teleported _Ry0s_ to matisus_2]
-[20:32:29] [Server thread/INFO]: [Not Secure] <_Ry0s_> AJSDFLJASLÑDKFJAS
-[20:32:31] [Server thread/INFO]: [Not Secure] <_Ry0s_> SE TRABA TODO
-[20:32:33] [Server thread/INFO]: [Not Secure] <_Ry0s_> ES EPICO
-[20:32:33] [Server thread/INFO]: [Not Secure] <matisus_2> CORTE ELRICH
-[20:32:42] [Server thread/INFO]: [Not Secure] <_Ry0s_> ES EPICO
-[20:33:44] [Server thread/INFO]: [matisus_2: Gave 1 [Debug Stick] to 2]
-[20:36:21] [Server thread/INFO]: [matisus_2: Gave 1 [Flint and Steel] to matisus_2]
-[20:36:27] [Server thread/INFO]: _Ry0s_ has made the advancement [Stone Age]
-[20:36:33] [Server thread/INFO]: [Not Secure] <_Ry0s_> buento
-[20:36:36] [Server thread/INFO]: matisus_2 was killed
-[20:36:36] [Server thread/INFO]: [_Ry0s_: Killed matisus_2]
-[20:36:41] [Server thread/INFO]: [Not Secure] <_Ry0s_> vamo a jugar normal
-[20:36:44] [Server thread/INFO]: [Not Secure] <_Ry0s_> yo todaviaaa
-[20:36:46] [Server thread/INFO]: [Not Secure] <_Ry0s_> todavia
-[20:36:48] [Server thread/INFO]: [Not Secure] <_Ry0s_> tengo que organizar
-[20:36:51] [Server thread/INFO]: [Not Secure] <_Ry0s_> pero despues
-[20:36:56] [Server thread/INFO]: [Not Secure] <_Ry0s_> despues de repasar un poco
-[20:36:59] [Server thread/INFO]: [Not Secure] <_Ry0s_> me pongo a jugar devuelta
-[20:37:02] [Server thread/INFO]: [Not Secure] <_Ry0s_> vos juga nomas
-[20:37:05] [Server thread/INFO]: [Not Secure] <_Ry0s_> y porfavor
-[20:37:12] [Server thread/INFO]: [Not Secure] <_Ry0s_> no te agregues nada del creativo
-[20:37:14] [Server thread/INFO]: [Not Secure] <_Ry0s_> aparte
-[20:37:21] [Server thread/INFO]: [Not Secure] <_Ry0s_> que te puedo rastrear todo lo que haces
-[20:37:22] [Server thread/INFO]: [Not Secure] <_Ry0s_> :D
-[20:37:36] [Server thread/INFO]: [_Ry0s_: Set own game mode to Creative Mode]
-[20:37:51] [Server thread/INFO]: [_Ry0s_: Set own game mode to Survival Mode]
-[20:37:55] [Server thread/INFO]: [Not Secure] <_Ry0s_> bueno
-[20:37:57] [Server thread/INFO]: [Not Secure] <_Ry0s_> bai abi
-[20:37:59] [Server thread/INFO]: [Not Secure] <_Ry0s_> en un rato entro
-[20:38:01] [Server thread/INFO]: _Ry0s_ lost connection: Disconnected
-[20:38:01] [Server thread/INFO]: _Ry0s_ left the game
-[20:41:05] [Server thread/INFO]: [matisus_2: Set the time to 1000]
-[20:43:02] [Server thread/INFO]: matisus_2 has made the advancement [Acquire Hardware]
-[20:43:24] [Server thread/INFO]: matisus_2 has made the advancement [Isn't It Iron Pick]
-[20:45:04] [Server thread/INFO]: matisus_2 has made the advancement [Monster Hunter]
-[20:50:47] [Server thread/INFO]: matisus_2 has made the advancement [Sweet Dreams]
-[21:04:48] [Server thread/INFO]: matisus_2 has made the advancement [Suit Up]
-[21:07:59] [Server thread/INFO]: matisus_2 has made the advancement [Not Today, Thank You]
-[21:10:40] [Server thread/INFO]: [matisus_2: Applied effect Night Vision to matisus_2]
-[21:16:10] [Server thread/INFO]: Kennyahre[/127.54.181.50:53279] logged in with entity id 8844 at (71.5, 114.0, -69.5)
-[21:16:10] [Server thread/INFO]: Kennyahre joined the game
-[21:16:17] [Server thread/INFO]: Kennyahre lost connection: Disconnected
-[21:16:17] [Server thread/INFO]: Kennyahre left the game
-[21:16:18] [Server thread/INFO]: [Not Secure] <matisus_2> HOLA KENNYYYY
-[21:16:30] [Server thread/INFO]: [Not Secure] <matisus_2> que choto q sos kenny
-[21:17:21] [Server thread/INFO]: The default game mode is now Survival Mode
-[21:18:16] [Server thread/INFO]: No player was found
-[21:18:27] [Server thread/INFO]: You whisper to matisus_2: se conecto el gordito?
-[21:18:40] [Server thread/INFO]: [Not Secure] <matisus_2> sisisii
-[21:18:47] [Server thread/INFO]: [Not Secure] <matisus_2> y se fue
-[21:18:50] [Server thread/INFO]: [Not Secure] <matisus_2> re gil
-[21:27:20] [Server thread/INFO]: Kennyahre[/127.54.181.50:36545] logged in with entity id 9822 at (71.5, 114.0, -69.5)
-[21:27:20] [Server thread/INFO]: Kennyahre joined the game
-[21:27:29] [Server thread/INFO]: [Not Secure] <Kennyahre> matiiiiiiiiii
-[21:27:40] [Server thread/INFO]: [Not Secure] <matisus_2> QQQQQ
-[21:27:42] [Server thread/INFO]: [Not Secure] <Kennyahre> porque hay una chota de bedrock
-[21:27:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:27:52] [Server thread/INFO]: msg perdon<--[HERE]
-[21:27:53] [Server thread/INFO]: [Not Secure] <matisus_2> FUI YO JAJJAJAAJS
-[21:27:56] [Server thread/INFO]: [Not Secure] <Kennyahre> mati tenes cama?
-[21:28:06] [Server thread/INFO]: [Not Secure] <matisus_2> sisi
-[21:28:09] [Server thread/INFO]: [Not Secure] <Kennyahre> duelme
-[21:28:11] [Server thread/INFO]: Kennyahre lost connection: Disconnected
-[21:28:11] [Server thread/INFO]: Kennyahre left the game
-[21:28:22] [Server thread/INFO]: Kennyahre[/127.54.181.50:42595] logged in with entity id 10007 at (38.202445048066444, 118.0, -81.57864752518202)
-[21:28:22] [Server thread/INFO]: Kennyahre joined the game
-[21:28:26] [Server thread/INFO]: Kennyahre lost connection: Disconnected
-[21:28:26] [Server thread/INFO]: Kennyahre left the game
-[21:28:33] [Server thread/INFO]: [Not Secure] [Server] ola
-[21:28:43] [Server thread/INFO]: [Not Secure] [Server] como dice esta mrd, server?
-[21:28:44] [Server thread/INFO]: Kennyahre[/127.54.181.50:46741] logged in with entity id 10057 at (38.202445048066444, 118.0, -81.57864752518202)
-[21:28:44] [Server thread/INFO]: Kennyahre joined the game
-[21:28:44] [Server thread/INFO]: [Not Secure] <matisus_2> ESTOY EM CUEVA WACHIIN
-[21:28:54] [Server thread/INFO]: [Not Secure] [Server] ola keni
-[21:28:54] [Server thread/INFO]: [Not Secure] <Kennyahre> ojala te mueras
-[21:29:07] [Server thread/INFO]: [Not Secure] <Kennyahre> keloke
-[21:29:14] [Server thread/INFO]: [Not Secure] <Kennyahre> eu me va re bien el ping
-[21:29:17] [Server thread/INFO]: [Not Secure] [Server] contestenme coño quiero saber si esto funciona
-[21:29:20] [Server thread/INFO]: [Not Secure] <Kennyahre> voy a 150
-[21:29:42] [Server thread/INFO]: You whisper to Kennyahre: configuraste el sodium?
-[21:30:44] [Server thread/INFO]: matisus_2 has made the advancement [Sneak 100]
-[21:38:19] [Server thread/INFO]: [Not Secure] <Kennyahre> mati
-[21:38:24] [Server thread/INFO]: [Not Secure] <Kennyahre> son 7 mods no?
-[21:38:35] [Server thread/INFO]: [Not Secure] <matisus_2> creo q si
-[21:38:45] [Server thread/INFO]: [Not Secure] <matisus_2> el aqua ns si esta
-[21:38:53] [Server thread/INFO]: [Not Secure] <Kennyahre> creo que no
-[21:39:27] [Server thread/INFO]: [Not Secure] <matisus_2> kenny estoy en el bioma del warden
-[21:39:27] [Server thread/INFO]: [Not Secure] <Kennyahre> epa yo si lo tengo
-[21:39:37] [Server thread/INFO]: [Not Secure] <matisus_2> nunca tuve tanto cagazo
-[21:42:05] [Server thread/INFO]: [Not Secure] <Kennyahre> ya podes dormir?
-[21:42:13] [Server thread/INFO]: Kennyahre lost connection: Disconnected
-[21:42:13] [Server thread/INFO]: Kennyahre left the game
-[21:42:15] [Server thread/INFO]: [Not Secure] <matisus_2> yes
-[21:43:36] [Server thread/INFO]: Kennyahre[/127.54.181.50:50549] logged in with entity id 12143 at (49.44867908520797, 130.0, -102.53916589303974)
-[21:43:36] [Server thread/INFO]: Kennyahre joined the game
-[21:45:33] [Server thread/INFO]: Kennyahre has made the advancement [Stone Age]
-[21:45:49] [Server thread/INFO]: [Not Secure] <matisus_2> LA CITY DEL WARDEN
-[21:46:10] [Server thread/INFO]: Kennyahre has made the advancement [Getting an Upgrade]
-[21:46:42] [Server thread/INFO]: [Not Secure] <matisus_2> -71 .168
-[21:46:54] [Server thread/INFO]: [Not Secure] <matisus_2> anotatelo en el prepucio ns
-[21:47:14] [Server thread/INFO]: [Not Secure] <matisus_2> pero yo no vuelvo aca hasta estar bien equipado
-[21:47:32] [Server thread/INFO]: [Not Secure] <matisus_2> -71 -168
-[21:48:41] [Server thread/INFO]: Kennyahre has made the advancement [Monster Hunter]
-[21:50:43] [Server thread/INFO]: Kennyahre has made the advancement [Ice Bucket Challenge]
-[21:51:44] [Server thread/INFO]: [Not Secure] <Kennyahre> amigo no para de llover
-[21:51:52] [Server thread/INFO]: [Not Secure] <Kennyahre> hoy no salgo ni a palo
-[21:51:54] [Server thread/INFO]: [Not Secure] <matisus_2> tengo silk touch
-[21:52:13] [Server thread/INFO]: [Not Secure] <matisus_2> cuchame me retiro o continuo ?
-[21:52:21] [Server thread/INFO]: [Not Secure] <Kennyahre> eh?
-[21:52:23] [Server thread/INFO]: [Not Secure] <Kennyahre> de donde
-[21:52:30] [Server thread/INFO]: [Not Secure] <matisus_2> la ancient city
-[21:52:37] [Server thread/INFO]: [Not Secure] <Kennyahre> sali de ahi al pedo te quedas
-[21:52:53] [Server thread/INFO]: Kennyahre has made the advancement [Acquire Hardware]
-[21:52:57] [Server thread/INFO]: [Not Secure] <matisus_2> consegui silk touch y poti de regen 2
-[21:53:02] [Server thread/INFO]: [Not Secure] <Kennyahre> dormi
-[21:53:08] [Server thread/INFO]: Kennyahre lost connection: Disconnected
-[21:53:08] [Server thread/INFO]: Kennyahre left the game
-[21:53:19] [Server thread/INFO]: Kennyahre[/127.54.181.50:58005] logged in with entity id 14673 at (329.140501044359, 95.0, 224.4747271764971)
-[21:53:19] [Server thread/INFO]: Kennyahre joined the game
-[21:57:22] [Server thread/INFO]: [Not Secure] [Server] chicos, pueden ver este mensaje? respondan en el chat con un si
-[21:57:26] [Server thread/INFO]: [Not Secure] <Kennyahre> si
-[21:57:31] [Server thread/INFO]: [Not Secure] [Server] okok
-[21:57:32] [Server thread/INFO]: [Not Secure] <matisus_2> si
-[21:57:52] [Server thread/INFO]: [Not Secure] [Server] kenny: 127.54.181.50
-[21:58:10] [Server thread/INFO]: [Not Secure] [Server] jojo
-[21:58:23] [Server thread/INFO]: [Not Secure] [Server] en media hora entro, iba a estudiar pero estudio mañana en la facultad
-[21:58:46] [Server thread/INFO]: [Not Secure] [Server] que estan haciendo?
-[21:58:56] [Server thread/INFO]: [Not Secure] <Kennyahre> buscando comida
-[21:59:05] [Server thread/INFO]: [Not Secure] <Kennyahre> eu dejaste el aqua al final?
-[21:59:11] [Server thread/INFO]: [Not Secure] [Server] no, lo saque
-[21:59:14] [Server thread/INFO]: [Not Secure] <Kennyahre> a
-[21:59:16] [Server thread/INFO]: [Not Secure] <matisus_2> saliendo de la ancient city
-[21:59:21] [Server thread/INFO]: [Not Secure] [Server] say te doy pan?
-[21:59:33] [Server thread/INFO]: [Not Secure] <Kennyahre> na
-[21:59:38] [Server thread/INFO]: [Not Secure] [Server] ok
-[22:03:53] [Server thread/INFO]: Kennyahre has made the advancement [Sweet Dreams]
-[22:05:20] [Server thread/INFO]: [Not Secure] <Kennyahre> voy a probar mods mati
-[22:05:31] [Server thread/INFO]: [Not Secure] <matisus_2> cuales hay
-[22:05:43] [Server thread/INFO]: [Not Secure] <Kennyahre> voy a buscar
-[22:06:12] [Server thread/INFO]: Kennyahre lost connection: Disconnected
-[22:06:12] [Server thread/INFO]: Kennyahre left the game
-[22:22:29] [Server thread/INFO]: [Not Secure] [Server] mati
-[22:22:36] [Server thread/INFO]: [Not Secure] [Server] voy a reiniciar un cachito
-[22:22:46] [Server thread/INFO]: [Not Secure] <matisus_2> okei
-[22:22:49] [Server thread/INFO]: matisus_2 lost connection: Disconnected
-[22:22:49] [Server thread/INFO]: matisus_2 left the game
-[22:22:58] [Server thread/INFO]: [Not Secure] [Server] estoy mejorando el rendimiento asi abro el server desde mi terminal
-[22:23:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[22:23:14] [Server thread/INFO]: y no tengo que abrir todo el github desde el navegador<--[HERE]
-[22:23:20] [Server thread/INFO]: Stopping the server
-[22:23:21] [Server thread/INFO]: Stopping server
-[22:23:21] [Server thread/INFO]: Saving players
-[22:23:21] [Server thread/INFO]: Saving worlds
-[22:23:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:23:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:23:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:23:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:23:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:23:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:23:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:25:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/own-server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:25:08] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:25:11] [main/INFO]: Loaded 7 recipes
+[22:25:11] [main/INFO]: Loaded 1271 advancements
+[22:25:12] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[22:25:12] [Server thread/INFO]: Loading properties
+[22:25:12] [Server thread/INFO]: Default game type: SURVIVAL
+[22:25:12] [Server thread/INFO]: Generating keypair
+[22:25:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:25:12] [Server thread/INFO]: Using epoll channel type
+[22:25:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:25:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:25:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:25:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:25:12] [Server thread/INFO]: Preparing level "world"
+[22:25:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:25:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:25:27] [Server thread/INFO]: Time elapsed: 9024 ms
+[22:25:27] [Server thread/INFO]: Done (14.992s)! For help, type "help"
+[22:26:32] [Server thread/INFO]: matisus_2[/127.12.203.92:36497] logged in with entity id 161 at (178.59881449987856, 121.0, 231.50223571349798)
+[22:26:32] [Server thread/INFO]: matisus_2 joined the game
+[22:27:40] [Server thread/INFO]: [Not Secure] [Server] ola
+[22:27:47] [Server thread/INFO]: [Not Secure] [Server] te veo todo re lindo desde aca
+[22:27:48] [Server thread/INFO]: [Not Secure] <matisus_2> ola
+[22:27:51] [Server thread/INFO]: [Not Secure] [Server] mucho mas rapido
+[22:27:54] [Server thread/INFO]: [Not Secure] <matisus_2> que
+[22:28:06] [Server thread/INFO]: [Not Secure] <matisus_2> como que mw vws
+[22:28:44] [Server thread/INFO]: [Not Secure] [Server] me salta todo desde la terminal
+[22:28:50] [Server thread/INFO]: [Not Secure] [Server] estos se llaman "logs"
+[22:28:56] [Server thread/INFO]: [Not Secure] [Server] son los registros de cada accion
+[22:29:01] [Server thread/INFO]: [Not Secure] [Server] ahora esta 
+[22:29:08] [Server thread/INFO]: [Not Secure] [Server] ah para, leo pudo romper bloques??????????
+[22:29:20] [Server thread/INFO]: [Not Secure] <matisus_2> no se quejo de nd
+[22:29:31] [Server thread/INFO]: [Not Secure] [Server] golazo
+[22:29:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:29:40] [Server thread/INFO]: m golazo<--[HERE]
+[22:29:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:29:43] [Server thread/INFO]: w mgolazo<--[HERE]
+[22:29:49] [Server thread/INFO]: [Not Secure] [Server] clear
+[22:30:00] [Server thread/INFO]: [Not Secure] [Server] virus.exe send matisus_2
+[22:30:11] [Server thread/INFO]: [Not Secure] <matisus_2> ahr limpiaba
+[22:30:52] [Server thread/INFO]: [Not Secure] [Server] Troyan.exe sended to matisus_2
+[22:31:31] [Server thread/INFO]: [Not Secure] [Server] que haces mati
